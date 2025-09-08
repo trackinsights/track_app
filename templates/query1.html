@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block title %}All Schools{% endblock %}
+
+{% block content %}
+<h2 class="mb-4 text-center">All Schools</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>School Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for school in results %}
+        <tr>
+            <td>{{ school.school_name }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
