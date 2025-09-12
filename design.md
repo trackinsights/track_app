@@ -5,7 +5,7 @@
 ### Athlete Performance Dashboard
 **Drilldown:** Gender → Team → Athlete → Event
 
-| Year | Event      | Meet       | Result | Avg – All Teams | Avg (Rank) – Like Teams | Avg (Rank) – Grade Level |
+| Year | Event      | Meet       | Result | Avg – All | Avg – Like Teams | Avg – Grade Level |
 |------|------------|------------|--------|------------------------|-------------------------|--------------------------|
 | 2022 | 400 Meters | Sectionals | 52.31  | 51.87 (12th)           | 52.15 (6th)             | 52.40 (4th)              |
 | 2023 | 400 Meters | Sectionals | 51.31  | 51.87 (12th)           | 52.15 (6th)             | 52.40 (4th)              |
@@ -33,7 +33,7 @@
 
 ---
 
-### 
+### Event Performance Percentiles
 **Drilldown:** Gender
 **Dropdown Filters:** Grade (All, 9, 10, 11, 12), , School Type (All, Like), Year (All, 2022, 2023, 2024)
 
