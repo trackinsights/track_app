@@ -3,14 +3,16 @@
 ## 1. For Athletes
 
 ### Athlete Performance Dashboard
-**Drilldown:** Gender → Team → Athlete → Event
+**Drilldown:** Gender → Team → Athlete 
 
-| Year | Event      | Meet       | Result | Avg – All | Avg – Like Teams | Avg – Grade Level |
-|------|------------|------------|--------|------------------------|-------------------------|--------------------------|
-| 2022 | 400 Meters | Sectionals | 52.31  | 51.87 (12th)           | 52.15 (6th)             | 52.40 (4th)              |
-| 2023 | 400 Meters | Sectionals | 51.31  | 51.87 (12th)           | 52.15 (6th)             | 52.40 (4th)              |
+| Year | Event      | Meet       | Result | Place | Rank                    | 
+|------|------------|------------|--------|---------|-------------------------|
+| 2022 | 400 Meters | Sectionals | 52.31  | 3   | 30 / 400                | 
+| 2023 | 400 Meters | Sectionals | 51.31  | 2   | 27 / 400                |     
 
-**Charts to Include:**
+
+
+**Possible Charts to Include:**
 - ![Line Chart] – Athlete Personal progression from Sectionals, Regionals, State -- for each year.
 - ![Bar Chart] – Athlete’s result vs averages (All Teams / Like Teams / Grade Level)  
 
