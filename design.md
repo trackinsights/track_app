@@ -2,19 +2,96 @@
 
 ## 1. For Athletes
 
-### Athlete Performance Dashboard
-**Drilldown:** Gender → Team → Athlete 
+## (A) Athlete Search
 
-| Year | Event      | Meet       | Result | Place | Rank                    | 
-|------|------------|------------|--------|---------|-------------------------|
-| 2022 | 400 Meters | Sectionals | 52.31  | 3   | 30 / 400                | 
-| 2023 | 400 Meters | Sectionals | 51.31  | 2   | 27 / 400                |     
+**Search by Last Name:**  
+
+[ Type last name... ]
+
+---
+
+### Example Suggestions (if user types "Doe")
+
+1. Jane Doe – Central HS – 2024  
+2. John Doe – Westside HS – 2023  
+3. Emily Doe – Northside HS – 2025  
+
+---
+## (B) Athlete Dashboard
+
+[← Back to Home](#)
+
+---
+
+## Jane Doe | Central HS | 2024
+
+*All data below pertains to individual events only (relays excluded).*
+
+### Achievements 
+
+⭐ Top 25% Sectional | 🏅 Regional Qualifier | 🏆 State Qualifier | 🥇 State Medalist
+
+*If none achieved:* *No milestone badges earned yet. Keep pushing—your achievements will appear here!*
+
+<details id="badge-key">
+<summary>Click to view badge descriptions</summary>
+
+- ⭐ Top 25% Sectional = At least one performance in the top 25% across all sectionals  
+- 🏅 Regional Qualifier = Made it to Regionals  
+- 🏆 State Qualifier = Made it to State meet  
+- 🥇 State Medalist = Top 9 at State meet  
+
+</details>
+
+### Results
+
+| Year | Event | Sectional | Regional | State |
+|------|-------|-----------|---------|-------|
+| 2023 | 200m  | [23.80](#sectional-detail-2023-200m) (4th) | [23.65](#regional-detail-2023-200m) (5th) | – |
+| 2023 | 400m  | [51.30](#sectional-detail-2023-400m) (2nd) | [51.10](#regional-detail-2023-400m) (6th) | [51.40](#state-detail-2023-400m) (12th) |
+| 2024 | 400m  | [50.90](#sectional-detail-2024-400m) (1st) | [51.02](#regional-detail-2024-400m) (7th) | – |
+
+[← Back to Home](#)
+
+---
+## (C) Athlete Details
+
+[← Back to Athlete Dashboard](#)
+
+---
+## 2023 Sectionals | Boys 400 Meters | Your result: 51.30
+
+### How does your result compare?
+
+| Group | Rank      | Percentile | 
+|-----------------|-----------|------------|
+| All Athletes    | 12 / 264 | Top 5%     | 
+| Like Schools    | 4 / 60   | Top 7%     |
+| Grade Level      | 3 / 70   | Top 4%     | 
+
+<details id="group-key">
+<summary>Click to view group descriptions</summary>
+
+- All Athletes  = all athletes across the state
+- Like Schools = athletes from schools within 25% of your schools' enrollment size.
+- Grade Level = athletes from your same grade
+</details>
+
+### How would you place?
+
+| Sectional # | Sectional Name | Your Place |
+|-------------|----------------|----------------------------|
+| 1           | Central HS     | 3rd                        |
+| 2           | Eastside HS    | 1st                        |
+| 3           | Westview HS    | 5th                        |
+| 4           | Northfield HS  | 2nd                        |
+| 5           | Lakeside HS    | 4th                        |
+| ...         | ...            | ...                        |
+| 32          | Southridge HS  | 2nd                        |
 
 
+[← Back to Athlete Dashboard](#)
 
-**Possible Charts to Include:**
-- ![Line Chart] – Athlete Personal progression from Sectionals, Regionals, State -- for each year.
-- ![Bar Chart] – Athlete’s result vs averages (All Teams / Like Teams / Grade Level)  
 
 ---
 
