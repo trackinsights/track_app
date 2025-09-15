@@ -2,26 +2,27 @@
 
 ## 1. For Athletes
 
-## (A) Athlete Search
+---
+#### (1) Athlete Dashboard: Search - This screen is the starting point for finding an athlete. 
+---
+**Search by athlete and/or school name:**  
 
-**Search by Last Name:**  
-
-[ Type last name... ]
+[ Type athlete and/or school name... ]
 
 ---
 
-### Example Suggestions (if user types "Doe")
+#### Example Output format:
 
 1. Jane Doe – Central HS – 2024  
 2. John Doe – Westside HS – 2023  
 3. Emily Doe – Northside HS – 2025  
 
 ---
-## (B) Athlete Dashboard
-
-[← Back to Home](#)
+#### (2) Athlete Dashboard: Main - This screen shows when the user clicks an athlete from the above search.
 
 ---
+
+[← Back](#)
 
 ## Jane Doe | Central HS | 2024
 
@@ -51,46 +52,74 @@
 | 2023 | 400m  | [51.30](#sectional-detail-2023-400m) (2nd) | [51.10](#regional-detail-2023-400m) (6th) | [51.40](#state-detail-2023-400m) (12th) |
 | 2024 | 400m  | [50.90](#sectional-detail-2024-400m) (1st) | [51.02](#regional-detail-2024-400m) (7th) | – |
 
-[← Back to Home](#)
+[← Back](#)
 
 ---
-## (C) Athlete Details
-
-[← Back to Athlete Dashboard](#)
+#### (3) Athlete Dashboard: Details - This screen shows when the user clicks a result from the screen above.
 
 ---
-## 2023 Sectionals | Boys 400 Meters | Your result: 51.30
+
+[← Back](#)
+
+## 2023 Boys Sectionals 400 Meters | Your result: 51.30
 
 ### How does your result compare?
 
-| Group | Rank      | Percentile | 
-|-----------------|-----------|------------|
-| All Athletes    | 12 / 264 | Top 5%     | 
-| Like Schools    | 4 / 60   | Top 7%     |
-| Grade Level      | 3 / 70   | Top 4%     | 
+| Group         | Rank                                   | Percentile |
+|---------------|----------------------------------------|------------|
+| All Athletes  | [12 / 264](#)                          | Top 5%     |
+| Like Schools  | [4 / 60](#)                            | Top 7%     |
+| Grade Level   | [3 / 70](#)                            | Top 4%     |
 
 <details id="group-key">
 <summary>Click to view group descriptions</summary>
 
-- All Athletes  = all athletes across the state
-- Like Schools = athletes from schools within 25% of your schools' enrollment size.
-- Grade Level = athletes from your same grade
+- All Athletes  = all athletes across the state  
+- Like Schools = athletes from schools within 25% of your schools' enrollment size  
+- Grade Level = athletes from your same grade  
 </details>
 
 ### How would you place?
 
-| Sectional # | Sectional Name | Your Place |
-|-------------|----------------|----------------------------|
-| 1           | Central HS     | 3rd                        |
-| 2           | Eastside HS    | 1st                        |
-| 3           | Westview HS    | 5th                        |
-| 4           | Northfield HS  | 2nd                        |
-| 5           | Lakeside HS    | 4th                        |
-| ...         | ...            | ...                        |
-| 32          | Southridge HS  | 2nd                        |
+| Sectional # | Sectional Name | Your Place                  |
+|-------------|----------------|-----------------------------|
+| 1           | Central HS     | [3rd](#)                    |
+| 2           | Eastside HS    | [1st](#)                    |
+| 3           | Westview HS    | [5th](#)                    |
+| 4           | Northfield HS  | [2nd](#)                    |
+| 5           | Lakeside HS    | [4th](#)                    |
+| ...         | ...            | [...]                       |
+| 32          | Southridge HS  | [2nd](#)                    |
 
 
-[← Back to Athlete Dashboard](#)
+
+[← Back](#)
+
+---
+#### (4) Athlete Dashboard: List - This screen shows when the user clicks a rank / place from the screen above.
+
+---
+
+[← Back](#)
+## 2023 Boys Sectionals 400 Meters | All Athletes List
+
+| Place | Name              | School             | Grade | Result | Sectional Name   | Regional Qualifier |
+|-------|-------------------|-------------------|-------|--------|-----------------|----------|
+| 1     | James Davis       | Lincoln HS        | 9     | 48.11  | Hilltop HS      | No       |
+| 2     | Donald Rodriguez  | Roosevelt HS      | 10    | 48.13  | Springfield HS  | Yes      |
+| 3     | David Martin      | Central Catholic  | 9     | 48.22  | Hilltop HS      | No       |
+| 4     | Joshua Anderson   | Lakeside Academy  | 12    | 48.34  | Lakeside HS     | No       |
+| 5     | Charles Martinez  | Westview Prep     | 12    | 48.36  | Westview HS     | No       |
+| ...   | ...               | ...               | ...   | ...    | ...             | ...      |
+| 12    | Jane Doe          | Central HS        | 11    | 51.30  | Central HS      | Yes      |
+| ...   | ...               | ...               | ...   | ...    | ...             | ...      |
+| 261   | Michael Miller    | Greenville HS     | 9     | 61.96  | Greenville HS   | No       |
+| 262   | Richard Wilson    | Franklin Academy  | 11    | 61.97  | Franklin HS     | No       |
+| 263   | Donald Jackson    | Jefferson HS      | 9     | 61.98  | Westview HS     | No       |
+| 264   | Kenneth Williams  | Northview School  | 11    | 61.98  | Northfield HS   | Yes      |
+| 265   | Andrew Taylor     | Hillcrest HS      | 12    | 61.98  | Hilltop HS      | No       |
+
+
 
 
 ---
