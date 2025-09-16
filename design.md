@@ -28,31 +28,45 @@
 
 *All data below pertains to individual events only (relays excluded).*
 
-### Achievements 
+---
 
-⭐ Top 25% Sectional | 🏅 Regional Qualifier | 🏆 State Qualifier | 🥇 State Medalist
+### Achievements  
 
-*If none achieved:* *No milestone badges earned yet. Keep pushing—your achievements will appear here!*
+⭐ **Top XX% Sectional** | 🏅 **Regional Qualifier** | 🏆 **State Qualifier** |🥇 **State Medalist**
+
+*Grey-out icons for acheivements not earned; illuminate ones acheived.  
+*Top XX% star colors: 0-50% is Green, 51-74% is Blue, 75%+ is Gold.
 
 <details id="badge-key">
 <summary>Click to view badge descriptions</summary>
 
-- ⭐ Top 25% Sectional = At least one performance in the top 25% across all sectionals  
-- 🏅 Regional Qualifier = Made it to Regionals  
-- 🏆 State Qualifier = Made it to State meet  
-- 🥇 State Medalist = Top 9 at State meet  
+- ⭐ **Top XX%** = Top percentatage acheived at Sectionals. 
+- 🏅 **Regional Qualifier** = Advanced to Regionals in any event.  
+- 🏆 **State Qualifier** = Advanced to State in any event.  
+- 🥇 **State Medalist** = Finished top 9 at State meet in any event.  
 
 </details>
+
+---
+
+### Personal Bests  
+- **200m:** **23.65** (2023 Regional) — 🏫 [#2 of 8 at Central HS](#school-200m-ranking)  
+- **400m:** **50.90** (2024 Sectional) — 🏫 [#1 of 10 at Central HS](#school-400m-ranking)  
+
+---
 
 ### Results
 
 | Year | Event | Sectional | Regional | State |
 |------|-------|-----------|---------|-------|
-| 2023 | 200m  | [23.80](#sectional-detail-2023-200m) (4th) | [23.65](#regional-detail-2023-200m) (5th) | – |
+| 2023 | 200m  | [23.80](#sectional-detail-2023-200m) (4th) | [**23.65**](#regional-detail-2023-200m) (5th) | – |
 | 2023 | 400m  | [51.30](#sectional-detail-2023-400m) (2nd) | [51.10](#regional-detail-2023-400m) (6th) | [51.40](#state-detail-2023-400m) (12th) |
-| 2024 | 400m  | [50.90](#sectional-detail-2024-400m) (1st) | [51.02](#regional-detail-2024-400m) (7th) | – |
+| 2024 | 400m  | [**50.90**](#sectional-detail-2024-400m) (1st) | [51.02](#regional-detail-2024-400m) (7th) | – |
+
+*Highlight PR's in the table.
 
 [← Back](#)
+
 
 ---
 #### (3) Athlete Dashboard: Details - This screen shows when the user clicks a result from the screen above.
