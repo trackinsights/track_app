@@ -21,7 +21,6 @@
 #### (2) Athlete Dashboard: Main - This screen shows when the user clicks an athlete from the above search.
 
 ---
-
 [← Back](#)
 
 ## Jane Doe | Central HS | 2024
@@ -32,10 +31,11 @@
 
 ### Achievements  
 
-⭐ **Top XX% Sectional** | 🏅 **Regional Qualifier** | 🏆 **State Qualifier** |🥇 **State Medalist**
+⭐ **Top XX% Sectional** | 2 x 🏅 **Regional Qualifier** | 🏆 **State Qualifier** |🥇 **State Medalist**
 
 *Grey-out icons for acheivements not earned; illuminate ones acheived.  
-*Top XX% star colors: 0-50% is Green, 51-74% is Blue, 75%+ is Gold.
+*Top XX% star colors: 0-50% is Green, 51-74% is Blue, 75%+ is Gold.  
+*Add hover tooltips that show which year/event earned qualifer, medalist, etc.
 
 <details id="badge-key">
 <summary>Click to view badge descriptions</summary>
@@ -50,8 +50,14 @@
 ---
 
 ### Personal Bests  
-- **200m:** **23.65** (2023 Regional) — 🏫 [#2 of 8 at Central HS](#school-200m-ranking)  
-- **400m:** **50.90** (2024 Sectional) — 🏫 [#1 of 10 at Central HS](#school-400m-ranking)  
+
+- **200m:** **23.65** (2023 Regional)  
+   • 🏫 [#2 of 8 All-Time at Central HS](#school-200m-ranking) since 2022  
+   • 🏅 [#15 of 450 All-Time in Indiana](#state-200m-ranking) since 2022  
+
+- **400m:** **50.90** (2024 Sectional)  
+   • 🏫 [#1 of 10 All-Time at Central HS](#school-400m-ranking) since 2022  
+   • 🏅 [#12 of 420 All-Time in Indiana](#state-400m-ranking) since 2022 
 
 ---
 
@@ -63,7 +69,7 @@
 | 2023 | 400m  | [51.30](#sectional-detail-2023-400m) (2nd) | [51.10](#regional-detail-2023-400m) (6th) | [51.40](#state-detail-2023-400m) (12th) |
 | 2024 | 400m  | [**50.90**](#sectional-detail-2024-400m) (1st) | [51.02](#regional-detail-2024-400m) (7th) | – |
 
-*Highlight PR's in the table.
+*Highlight PR's in the table. You could add an icon too?
 
 [← Back](#)
 
@@ -72,7 +78,6 @@
 #### (3) Athlete Dashboard: Details - This screen shows when the user clicks a result from the screen above.
 
 ---
-
 [← Back](#)
 
 ## 2023 Boys Sectionals 400 Meters | Your result: 51.30
@@ -113,8 +118,8 @@
 #### (4) Athlete Dashboard: List - This screen shows when the user clicks a rank / place from the screen above.
 
 ---
-
 [← Back](#)
+
 ## 2023 Boys Sectionals 400 Meters | All Athletes List
 
 | Place | Name              | School             | Grade | Result | Sectional Name   | Regional Qualifier |
@@ -133,8 +138,9 @@
 | 264   | Kenneth Williams  | Northview School  | 11    | 61.98  | Northfield HS   | Yes      |
 | 265   | Andrew Taylor     | Hillcrest HS      | 12    | 61.98  | Hilltop HS      | No       |
 
+*Instead of Yes / No on Regional qualifier, use an icon to indicate qualifier.
 
-
+[← Back](#)
 
 ---
 
